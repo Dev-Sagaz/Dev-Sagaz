@@ -43,13 +43,12 @@ Currently studying Java and Object-Oriented Programming, building projects that 
 
 ## 🚀 Projects
 
-### 💰 Price Pal
+### 💰 Clear Investing
 
 > 📌 About the project
+Investment analysis platform for B3 stocks and cryptocurrencies, entirely in Portuguese.
 
-Price Pal is a price monitoring SaaS developed for online sellers who need to keep up with the competition in an automated way. The seller registers only the product itself - and the system finds and monitors competitors automatically.
-
-🔗 [View Project](https://lovable.dev/projects/e5325754-6081-4f23-a800-6d43e26ee808)
+🔗 [View Project](https://lovable.dev/projects/942080c0-0f72-4533-a895-5cf115f7b073)
 
 -----
 
